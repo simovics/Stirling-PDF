@@ -451,6 +451,12 @@
             "moduleLicenseUrl": "https://opensource.org/licenses/BSD-2-Clause"
         },
         {
+            "moduleName": "org.commonmark:commonmark-ext-gfm-tables",
+            "moduleVersion": "0.21.0",
+            "moduleLicense": "BSD 2-Clause License",
+            "moduleLicenseUrl": "https://opensource.org/licenses/BSD-2-Clause"
+        },
+        {
             "moduleName": "org.eclipse.angus:angus-activation",
             "moduleUrl": "https://www.eclipse.org",
             "moduleVersion": "2.0.1",
